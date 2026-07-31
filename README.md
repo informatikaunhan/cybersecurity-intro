@@ -156,6 +156,7 @@ Klik link **📝** untuk mengakses soal evaluasi yang mencakup:
 | **Scanning** | Nmap, Zenmap, Masscan |
 | **Enumeration** | enum4linux, snmpwalk, dnsenum |
 | **Vulnerability Analysis** | OpenVAS, Nikto, OWASP ZAP |
+| **AI-Assisted Pentest** | [Dark-Moon](https://github.com/ASCIT31/Dark-Moon) (platform pentest otonom berbasis AI, self-hosted docker-compose, server MCP, cakupan Web/API/Active Directory/Kubernetes) |
 | **Exploitation** | Metasploit Framework, SQLmap |
 | **Sniffing** | Wireshark, Ettercap, tcpdump |
 | **Password Cracking** | John the Ripper, Hashcat, Hydra |
